@@ -1,0 +1,17 @@
+.huw {
+    color: rgb(192, 130, 36);
+    background-color: rgb(10, 4, 4);
+    font-size: 20px;
+    display: inline-block;
+    text-shadow: 2px 1px red;
+}
+
+div {
+    display: inline-block;
+}
+
+.h12 {
+    background-color: rgb(133, 45, 11);
+    color: rgb(23, 151, 40);
+    text-shadow: 3px 2px rgb(5, 5, 85);
+}
